@@ -1,0 +1,14 @@
+11:18: new entry: Новая запись phone: +7 9853625145 surname: Иванов name: Иван patronymic: Иванович
+11:18: new entry: Новая запись phone: +7 9876554123 surname: Петрова name: Татьяна patronymic: Васильевна
+11:18: new entry: Новая запись phone: +7 9876554369 surname: Шилова name: Наталья patronymic: Юрьевна
+11:19: new entry: Новая запись phone: +7 9634525412 surname: Князев name: Иван patronymic: Иванович
+11:19: new entry: Запрос на вывод информации
+11:19: new entry: Запрос на поиск 9853625145
+11:20: new entry: Удаление phone: +7 9853625145 surname: Иванов name: Иван patronymic: Иванович
+13:13: new entry: Запрос на вывод информации
+13:14: new entry: Удаление phone: +7 9876554123 surname: Петрова name: Татьяна patronymic: Васильевна
+13:14: new entry: Запрос на поиск 9876554369
+13:15: new entry: Удаление phone: +7 9634525412 surname: Князев name: Иван patronymic: Иванович
+13:15: new entry: Запрос на вывод информации
+13:15: new entry: Удаление phone: +7 9876554369 surname: Шилова name: Наталья patronymic: Юрьевна
+13:23: new entry: Запрос на вывод информации
