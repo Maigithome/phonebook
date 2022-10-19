@@ -10,7 +10,7 @@ import UI
 def show_all():
     list_data = reading_data.get_info('uses.csv')
     print_all_data.print_all(list_data)
-    UI.print_data(f"\nТелефонный справочник состоит из {len(list_data)} записей")
+    UI.print_data(f"\nТелефонный справочник состоит из {len(list_data)-1} записей")
     logger.result_loger(f'Запрос на вывод информации')
 
 
