@@ -62,6 +62,7 @@ def add_contact_by_txt():
             file.write(f'{i},')
             file.write('\n')
 
+            
 def add_contact_by_csv():
     list_data = reading_data.get_info('uses.csv')
     with open('phonebook.csv', 'a', encoding='utf-8') as file:
@@ -69,12 +70,6 @@ def add_contact_by_csv():
             file.write(f'{i},')
             file.write('\n')
 
-def add_contact_by_csv():
-    list_data = reading_data.get_info('uses.csv')
-    with open('phonebook.csv', 'a', encoding='utf-8') as file:
-        for i in list_data:
-            file.write(f'{i},')
-            file.write('\n')
 
 def add_contact_by_XML():
     list_data = reading_data.get_info('uses.csv')
